@@ -29,7 +29,7 @@
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Framify for macOS.
+You can [download](https://github.com/SasanSoroush/Framify/releases/tag/v1.0.0) the latest installable version of Framify for macOS.
 
 
 ## License
